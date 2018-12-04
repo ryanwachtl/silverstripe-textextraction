@@ -5,7 +5,7 @@
  * @author mstephens
  *
  */
-abstract class FileTextExtractor extends Object
+abstract class FileTextExtractor extends SS_Object
 {
     /**
      * Set priority from 0-100.
